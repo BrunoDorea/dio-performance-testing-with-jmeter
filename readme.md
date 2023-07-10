@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 
-Repositório criado para a mentoria da DIO sobre `Teste de Performance em Aplicações Web com JMeter`.
+Criação de um teste de performance utilizando o jMeter.
 
 ## 📝 License
 
